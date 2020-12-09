@@ -3,6 +3,7 @@
 [![NPM Package](https://img.shields.io/npm/v/bitcore-wallet-client.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-wallet-client)
 [![Build Status](https://img.shields.io/travis/bitpay/bitcore-wallet-client.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-wallet-client)
 [![Coverage Status](https://coveralls.io/repos/bitpay/bitcore-wallet-client/badge.svg)](https://coveralls.io/r/bitpay/bitcore-wallet-client)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet-client.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet-client?ref=badge_shield)
 
 The *official* client library for [bitcore-wallet-service] (https://github.com/bitpay/bitcore-wallet-service).
 
@@ -1118,3 +1119,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet-client.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet-client?ref=badge_large)
